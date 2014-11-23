@@ -4,9 +4,10 @@ https://gist.github.com/NicolasT/4519146
 
 ## TODO:
 ### 1-1 bidirectional
-[] Write 1-1 bidirectional router
-[] write chatty server
-[] demo with chatty_server <-> 1-1 router <-> chatty_server
+
+- [] Write 1-1 bidirectional router
+- [] write chatty server
+- [] demo with chatty_server <-> 1-1 router <-> chatty_server
 
 ### 1-many multiplexer
 
